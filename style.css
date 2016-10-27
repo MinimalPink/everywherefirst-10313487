@@ -1,5 +1,5 @@
 body, html {
-    margin: 0; padding: 0; height: 100%; overflow: hidden; background: black;
+    margin: 0; padding: 0; height: 100%; overflow: hidden; background: #455a64;
 }
 
 #content {
@@ -8,10 +8,10 @@ body, html {
 
 #myApp {
     position: absolute;
-    background: black;
+    background: #455a64;
 }
 #online {
-    background: black;
+    background: #455a64;
     height: 100%;
     width: 100%;
     position: relative;
@@ -22,7 +22,7 @@ body, html {
 }
 
 #online iframe {
-    background: black;
+    background: #455a64;
     width: 100%;
     height: 100%;
 }
